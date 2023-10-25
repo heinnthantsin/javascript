@@ -101,3 +101,6 @@ console.log(hasMovie && "there is a movie based on this book")
 const des = description ?? "There is no description";
 des
 console.log(des)
+console.log("hello owrld");
+
+console.log("Hello This is from thant");
